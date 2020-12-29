@@ -1,2 +1,1 @@
-# FracCalc
- AP CS Project
+# fraccalc-bluej
